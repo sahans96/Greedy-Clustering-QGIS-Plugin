@@ -1,0 +1,9 @@
+[general]
+name=Greedy Clustering Tool
+description=Cluster points based on spatial proximity and value sum
+version=1.0
+qgisMinimumVersion=3.10
+author= Sahan WanniArachchige
+email=sahansashi96@email.com
+category=Analysis
+icon=icon.png
